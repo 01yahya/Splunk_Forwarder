@@ -59,8 +59,8 @@ log_success() {
 print_banner() {
     echo -e "${CYAN}"
     echo "╔════════════════════════════════════════════════════════════════╗"
-    echo "║        Splunk Universal Forwarder 9.1.1 Installer             ║"
-    echo "║                    Version 2.0                                 ║"
+    echo "║        Splunk Universal Forwarder 9.1.1 Installer              ║"
+    echo "║                                                                ║"
     echo "╚════════════════════════════════════════════════════════════════╝"
     echo -e "${NC}"
 }
